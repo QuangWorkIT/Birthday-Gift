@@ -662,6 +662,7 @@ button:hover::before {
         width: 250px;
         height: 300px;
         justify-content: space-around;
+        left: 18%;
     }
     button {
         width: 100%;
